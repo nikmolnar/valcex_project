@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 <!-- STYLESHEETS -->
 
-    <link rel="stylesheet" href="../css/thesis.css" type="text/css" />
+    <link rel="stylesheet" href="thesis.css" type="text/css" />
     
 <!-- SCRIPTS -->
 
