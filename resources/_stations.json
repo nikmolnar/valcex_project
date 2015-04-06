@@ -1,0 +1,34 @@
+{
+    "array": [
+        
+        {
+            "name": "McRae",
+            "utmX": 563962,
+            "utmY": 4898882,
+           "lat": 44.24037,
+            "lon": -122.19897,
+            "demx": 186,
+            "demy": 169,
+            "sceneObjs": {
+                "arrows": {}
+            },
+            "data": {},
+            "fileLocation" : "resources/mcrae/"
+        },
+        
+        {
+            "name": "Primet",
+            "utmX": 559440,
+            "utmY": 4895664,
+            "lat": 44.211777,
+            "lon": -122.255954,
+            "demx": 35,
+            "demy": 276,
+            "sceneObjs": {
+                "arrows": {}
+            },
+            "data": {},
+            "fileLocation" : "resources/primet/"
+        } 
+    ]
+}
